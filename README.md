@@ -18,10 +18,12 @@
 
 # Data collection strategy
 - Data are collected from 57 locations from all over the world
-- These locations are chosen so that the density of 65+ aged population are evenly distribu  
+- We have divided the locations into 5 categories where the locations in each category have the similar density of 65+ aged population.  
+- Distribution of population density over 65+ aged people: 
+![pop_65+](Results/Figures/CorrCoefficient.png?raw=true "Title")
 
 # Input dataset:
-- We have total 22 input features where some parameters infl
+- We have total 22 input features where some parameters influences CSR and ot
 
 # Results:
 # Training Convergence [CFR]: 
