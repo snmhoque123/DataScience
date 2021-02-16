@@ -1,11 +1,27 @@
-# Harris-Corner-Detection using Sobel and Roberts Cross operator
+# Training of machine learning models for COVID-19 dataset
 # Installation:
 # Requirements:
-- OpenCV 4.0.0 [http://opencv.org/]
-- g++ 7.4.0
-- OS Linux
-# How to build:
-- cd harrisCornerDetect
+- Anaconda
+- Python 3.5
+- Numpy
+- Scipy
+- Sci-kit learn
+- Pandas
+- matplotlib
+
+# Models are trained based on two output parameters
+- Case Fatality Ratio (CFR)
+- CFR = Cumulative number of death / Cumulative number of cases
+
+- COVID-19 Spreading Ratio (CSR)
+- CSR = Cumulative number of cases / Total population
+
+# Data collection strategy
+- Data are collected from 57 locations from all over the world
+- These locations are chosen so that the density of 65+ aged population are evenly distribu  
+
+# Input dataset:
+- We have total 22 input features where some parameters infl
 - cd Debug
 - make clean
 - make all
