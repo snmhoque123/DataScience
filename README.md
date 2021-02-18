@@ -27,6 +27,35 @@
 - Input features are chosen based on environmental, biological, pollution, and demographical factors.
 - Some input parameters influence CFR, some of them influence CSR and some have an impact on both CFR and CSR. 
 
+# Input features dictates CFR:
+- Population density of 65 or older people 
+- Vitamin A deficiency 
+- Vitamin D deficiency 
+- Health care quality and access index
+- Pollutant PM2.5 particle 
+- Anemia 
+- AB+ 
+- AB-
+- A+
+- A- 
+- B+ 
+- B- 
+- O+ 
+- O- 
+
+# Input features dictates CSR:
+- Solar radiation
+- Daily Temperature 
+- Precipitation
+- Population density
+- Average Wind speed
+- Relative humidity
+- Stringency index
+- UV index
+
+# Input features dictates both CFR and CSR:
+- Pollutant PM2.5 particle 
+
 # Methodology:
 - To train the input dataset, Artificial Neural Netwrok is used for regression.
 - GridSearch technique is used to choose the hyperparameters, activation function, solver, and number and the size of hidden layers. 
