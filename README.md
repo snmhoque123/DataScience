@@ -27,7 +27,7 @@
 - Input features are chosen based on environmental, biological, pollution, and demographical factors.
 - Some input parameters influence CFR, some of them influence CSR and some have an impact on both CFR and CSR. 
 
-# Input features dictates CFR:
+# Input features dictate CFR:
 - Population density of 65 or older people 
 - Vitamin A deficiency 
 - Vitamin D deficiency 
@@ -43,7 +43,7 @@
 - O+ 
 - O- 
 
-# Input features dictates CSR:
+# Input features dictate CSR:
 - Solar radiation
 - Daily Temperature 
 - Precipitation
@@ -53,7 +53,7 @@
 - Stringency index
 - UV index
 
-# Input features dictates both CFR and CSR:
+# Input features dictate both CFR and CSR:
 - Pollutant PM2.5 particle 
 
 # Methodology:
