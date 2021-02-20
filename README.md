@@ -65,13 +65,13 @@
 - Solver Adam is used to handle the noisy dataset. 
 
 # Results:
-- For CFR: 
-- Training Error (MAE): 0.07686056937917364
-- Testing Error (MAE): 0.08729698595622458
+- For CFR:
+- Training Error (MAE): 0.0389
+- Testing Error (MAE): 0.0416
 
 - For CSR:
-- Training Error (MAE): 0.06867944664395645
-- Testing Error (MAE): 0.11463206800503989
+- Training Error (MAE): 0.0385
+- Testing Error (MAE): 0.0394
 
 # Figures:
 # Training Convergence [CFR]: 
