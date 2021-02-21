@@ -66,12 +66,12 @@
 
 # Results:
 - For CFR:
-- Training Error (MAE): 0.0389
-- Testing Error (MAE): 0.0416
+- Training Error (MAE): 0.0350
+- Testing Error (MAE): 0.0377
 
 - For CSR:
-- Training Error (MAE): 0.0385
-- Testing Error (MAE): 0.0394
+- Training Error (MAE): 0.0184
+- Testing Error (MAE): 0.0187
 
 # Figures:
 # Training Convergence [CFR]: 
@@ -80,3 +80,14 @@
 ![TrainConvgCSR](Results/Figures/CSRLossVal.png?raw=true "Title")
 # Parameter correlation: 
 ![Corr](Results/Figures/CorrCoefficient.png?raw=true "Title")
+
+# Validation of the trained model
+- Arizona, USA
+![TrainConvg](Results/Figures/Validation/ArizonaCFR.png?raw=true "Title")
+![TrainConvg](Results/Figures/Validation/ArizonaCSR.png?raw=true "Title")
+- Japan
+![TrainConvg](Results/Figures/Validation/JapanCFR.png?raw=true "Title")
+![TrainConvg](Results/Figures/Validation/JapanCSR.png?raw=true "Title")
+- BC, Canada
+![TrainConvg](Results/Figures/Validation/BCCanadaCFR.png?raw=true "Title")
+![TrainConvg](Results/Figures/Validation/BCCanadaCSR.png?raw=true "Title")
