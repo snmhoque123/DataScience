@@ -83,11 +83,11 @@
 
 # Validation of the trained model
 - Arizona, USA
-![TrainConvg](Results/Figures/Validation/ArizonaCFR.png?raw=true "Title")
-![TrainConvg](Results/Figures/Validation/ArizonaCSR.png?raw=true "Title")
+![TrainConvg](Results/Validation/ArizonaCFR.png?raw=true "Title")
+![TrainConvg](Results/Validation/ArizonaCSR.png?raw=true "Title")
 - Japan
-![TrainConvg](Results/Figures/Validation/JapanCFR.png?raw=true "Title")
-![TrainConvg](Results/Figures/Validation/JapanCSR.png?raw=true "Title")
+![TrainConvg](Results/Validation/JapanCFR.png?raw=true "Title")
+![TrainConvg](Results/Validation/JapanCSR.png?raw=true "Title")
 - BC, Canada
-![TrainConvg](Results/Figures/Validation/BCCanadaCFR.png?raw=true "Title")
-![TrainConvg](Results/Figures/Validation/BCCanadaCSR.png?raw=true "Title")
+![TrainConvg](Results/Validation/BCCanadaCFR.png?raw=true "Title")
+![TrainConvg](Results/Validation/BCCanadaCSR.png?raw=true "Title")
