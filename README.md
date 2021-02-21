@@ -75,9 +75,9 @@
 
 # Figures:
 # Training Convergence [CFR]: 
-![TrainConvg](Results/Figures/CFRLossValNew.png?raw=true "Title")
+![TrainConvg](Results/Figures/CFRLossVal.png?raw=true "Title")
 # Training Convergence [CSR]: 
-![TrainConvgCSR](Results/Figures/CSRLossVal.png?raw=true "Title")
+![TrainConvgCSR](Results/Figures/CSRLossValNew.png?raw=true "Title")
 # Parameter correlation: 
 ![Corr](Results/Figures/CorrCoefficient.png?raw=true "Title")
 
