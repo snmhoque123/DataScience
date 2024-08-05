@@ -74,6 +74,11 @@
 - Testing Error (MAE): 0.0187
 
 # Figures:
+# Feature Analysis: 
+
+![image](https://github.com/user-attachments/assets/2524697e-65ee-4c49-8d56-c0e9cab12214)
+
+![Cross Correlation](https://github.com/snmhoque123/DataScience/blob/main/Feature%20Analysis.png)
 # Training Convergence [CFR]: 
 ![TrainConvg](Results/Figures/CFRLossVal.png?raw=true "Title")
 # Training Convergence [CSR]: 
